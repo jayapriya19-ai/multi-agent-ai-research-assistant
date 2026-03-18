@@ -1,5 +1,6 @@
 streamlit
-crewai[tools]
+crewai
+crewai_tools
 litellm
 langchain
 langchain-groq
