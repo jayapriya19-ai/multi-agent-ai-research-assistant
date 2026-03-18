@@ -1,6 +1,7 @@
 streamlit
 crewai
-python-dotenv
+crewai-tools
 litellm
 langchain
 langchain-groq
+python-dotenv
